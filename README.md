@@ -117,7 +117,7 @@
 
 ## Data Ingestion
 
-* [Kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) ⭐ 9,233 | 🐛 8 | 🌐 Rust | 📅 2026-08-29 - Polyglot document intelligence library with a Rust core and bindings for Python, TypeScript, Go, and more. Extracts text, tables, and metadata from 62+ document formats for data pipeline ingestion.
+* [Kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) ⭐ 9,233 | 🐛 9 | 🌐 Rust | 📅 2026-08-29 - Polyglot document intelligence library with a Rust core and bindings for Python, TypeScript, Go, and more. Extracts text, tables, and metadata from 62+ document formats for data pipeline ingestion.
 * [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) ⭐ 4,119 | 🐛 57 | 🌐 Python | 📅 2026-08-28 - Utility belt to handle data on AWS.
 * [ingestr](https://github.com/bruin-data/ingestr) ⭐ 3,909 | 🐛 32 | 🌐 Go | 📅 2026-08-28 - CLI tool to copy data between databases with a single command. Supports 50+ sources including PostgreSQL, MySQL, MongoDB, Salesforce, Shopify to any data warehouse.
 * [Heka](https://github.com/mozilla-services/heka) ⚠️ Archived - Data Acquisition and Processing Made Easy. Deprecated.
@@ -172,7 +172,7 @@
 
 ## File System
 
-* [JuiceFS](https://github.com/juicedata/juicefs) ⭐ 14,366 | 🐛 197 | 🌐 Go | 📅 2026-08-28 - A high-performance Cloud-Native file system driven by object storage for large-scale data storage.
+* [JuiceFS](https://github.com/juicedata/juicefs) ⭐ 14,367 | 🐛 197 | 🌐 Go | 📅 2026-08-28 - A high-performance Cloud-Native file system driven by object storage for large-scale data storage.
 * [S3QL](https://github.com/s3ql/s3ql/) ⭐ 1,269 | 🐛 11 | 🌐 Python | 📅 2026-08-21 - A file system that stores all its data online using storage services like Google Storage, Amazon S3, or OpenStack.
 * [SeaweedFS](https://github.com/chrislusf/seaweedfs) ⭐ 37 | 🐛 1 | 🌐 Go | 📅 2026-07-21 - Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key\~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
 * [SnackFS](https://github.com/tuplejump/snackfs-release) ⭐ 13 | 🐛 2 | 🌐 Scala | 📅 2015-07-09 - A bite-sized, lightweight HDFS compatible file system built over Cassandra.
@@ -258,7 +258,7 @@
 ## Charts and Dashboards
 
 * [Apache Superset](https://github.com/apache/incubator-superset) ⭐ 74,520 | 🐛 611 | 🌐 Python | 📅 2026-08-29 - A modern, enterprise-ready business intelligence web application.
-* [Metabase](https://github.com/metabase/metabase) ⭐ 48,981 | 🐛 4,459 | 🌐 Clojure | 📅 2026-08-29 - The easy, open source way for everyone in your company to ask questions and learn from data.
+* [Metabase](https://github.com/metabase/metabase) ⭐ 48,981 | 🐛 4,456 | 🌐 Clojure | 📅 2026-08-29 - The easy, open source way for everyone in your company to ask questions and learn from data.
 * [Plotly](https://github.com/plotly/dash) ⭐ 24,392 | 🐛 533 | 🌐 Python | 📅 2026-08-28 - Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python.
 * [PyXley](https://github.com/stitchfix/pyxley) ⚠️ Archived - Python helpers for building dashboards using Flask and React.
 * [Dekart](https://github.com/dekart-xyz/dekart) ⭐ 402 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-27 - Open-source SQL to map platform for BigQuery, Snowflake, and PostGIS.
@@ -278,8 +278,8 @@
 
 ## Workflow
 
-* [Airflow](https://github.com/apache/airflow) ⭐ 46,630 | 🐛 1,983 | 🌐 Python | 📅 2026-08-28 - A system to programmatically author, schedule, and monitor data pipelines.
-* [Kestra](https://github.com/kestra-io/kestra) ⭐ 27,945 | 🐛 676 | 🌐 Java | 📅 2026-08-28 - Scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
+* [Airflow](https://github.com/apache/airflow) ⭐ 46,630 | 🐛 1,982 | 🌐 Python | 📅 2026-08-29 - A system to programmatically author, schedule, and monitor data pipelines.
+* [Kestra](https://github.com/kestra-io/kestra) ⭐ 27,946 | 🐛 676 | 🌐 Java | 📅 2026-08-28 - Scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
 * [Luigi](https://github.com/spotify/luigi) ⭐ 18,768 | 🐛 170 | 🌐 Python | 📅 2026-07-18 - A Python module that helps you build complex pipelines of batch jobs.
 * [Dagster](https://github.com/dagster-io/dagster) ⭐ 16,072 | 🐛 2,586 | 🌐 Python | 📅 2026-08-28 - An open-source Python library for building data applications.
 * [DataFlow](https://github.com/OpenDCAI/DataFlow) ⭐ 7,807 | 🐛 9 | 🌐 Python | 📅 2026-08-18 - Open-source platform for data preparation, synthetic data generation, and AI/data pipelines. Includes reusable skills for automating workflow steps across data and AI tasks.
