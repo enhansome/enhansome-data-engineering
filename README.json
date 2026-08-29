@@ -15,12 +15,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.",
+                "homepage": "https://rqlite.io",
                 "id": 23247808,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T01:46:04Z",
+                "open_issues": 83,
                 "owner": "rqlite",
                 "repo": "rqlite",
-                "stars": 17708
+                "stars": 17711,
+                "topics": [
+                  "consensus",
+                  "database",
+                  "distributed-database",
+                  "distributed-systems",
+                  "fault-tolerance",
+                  "go",
+                  "raft",
+                  "relational-database",
+                  "sql",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -36,12 +52,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
+                    "homepage": "https://www.tidb.io/",
                     "id": 41986369,
                     "language": "Go",
-                    "last_commit": "2026-08-28T05:59:04Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T03:40:03Z",
+                    "open_issues": 6833,
                     "owner": "pingcap",
                     "repo": "tidb",
-                    "stars": 40476
+                    "stars": 40478,
+                    "topics": [
+                      "agent",
+                      "agent-context",
+                      "agent-memory",
+                      "agentic",
+                      "ai",
+                      "cloud-native",
+                      "database",
+                      "distributed-database",
+                      "distributed-transactions",
+                      "go",
+                      "hacktoberfest",
+                      "htap",
+                      "memory",
+                      "mysql",
+                      "mysql-compatibility",
+                      "scale",
+                      "serverless",
+                      "sql",
+                      "tidb"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:07:13.018Z"
                 },
@@ -52,12 +93,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Pinterest MySQL Management Tools",
+                    "homepage": null,
                     "id": 44876935,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2019-06-25T19:50:26Z",
+                    "open_issues": 1,
                     "owner": "pinterest",
                     "repo": "mysql_utils",
-                    "stars": 879
+                    "stars": 879,
+                    "topics": [
+                      "mysql"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:07:13.018Z"
                 }
@@ -77,12 +125,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HyperDex is a scalable, searchable key-value store",
+                "homepage": "http://hyperdex.org",
                 "id": 3493103,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-05-21T01:40:06Z",
+                "open_issues": 37,
                 "owner": "rescrv",
                 "repo": "HyperDex",
-                "stars": 1405
+                "stars": 1405,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -93,12 +146,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IonDB, a key-value datastore for resource constrained systems.",
+                "homepage": null,
                 "id": 31342455,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-06-03T18:56:02Z",
+                "open_issues": 20,
                 "owner": "iondbproject",
                 "repo": "iondb",
-                "stars": 594
+                "stars": 594,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -109,12 +167,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Kyoto Tycoon key-value store (and the underlying Kyoto Cabinet library)",
+                "homepage": null,
                 "id": 28457976,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2023-12-05T22:28:42Z",
+                "open_issues": 13,
                 "owner": "AlticeLabsPublic",
                 "repo": "kyoto",
-                "stars": 279
+                "stars": 279,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             }
@@ -132,12 +195,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed Prometheus time series database",
+                "homepage": null,
                 "id": 29259281,
                 "language": "Scala",
-                "last_commit": "2026-08-27T19:42:10Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T16:13:25Z",
+                "open_issues": 68,
                 "owner": "filodb",
                 "repo": "FiloDB",
-                "stars": 1467
+                "stars": 1467,
+                "topics": [
+                  "database",
+                  "distributed",
+                  "kafka",
+                  "metrics",
+                  "prometheus",
+                  "reactive",
+                  "scala",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -153,12 +230,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB",
+                    "homepage": "http://scylladb.com",
                     "id": 28449431,
                     "language": "C++",
-                    "last_commit": "2026-08-28T05:49:42Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T22:59:28Z",
+                    "open_issues": 3631,
                     "owner": "scylladb",
                     "repo": "scylladb",
-                    "stars": 15723
+                    "stars": 15724,
+                    "topics": [
+                      "c-plus-plus",
+                      "cassandra",
+                      "cpp",
+                      "database",
+                      "nosql",
+                      "scylla",
+                      "seastar"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:07:13.018Z"
                 },
@@ -169,12 +259,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Apache Cassandra® Cluster Manager (CCM) – easily create and destroy clusters on localhost",
+                    "homepage": "https://cassandra.apache.org/",
                     "id": 1425437,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-21T10:32:54Z",
+                    "open_issues": 72,
                     "owner": "apache",
                     "repo": "cassandra-ccm",
-                    "stars": 1234
+                    "stars": 1234,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:07:13.018Z"
                 }
@@ -199,12 +294,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Distributed Transactional In-Memory Database (全球首个支持分布式事务的MongoDB)",
+                    "homepage": "http://memdb.org",
                     "id": 30956325,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2018-04-25T08:57:38Z",
+                    "open_issues": 11,
                     "owner": "rain1017",
                     "repo": "memdb",
-                    "stars": 593
+                    "stars": 593,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:07:13.018Z"
                 }
@@ -224,12 +324,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A distributed, fault-tolerant graph database",
+                "homepage": null,
                 "id": 605999,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2017-03-16T23:11:18Z",
+                "open_issues": 27,
                 "owner": "twitter-archive",
                 "repo": "flockdb",
-                "stars": 3315
+                "stars": 3315,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -240,12 +345,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lakehouse native graph engine with git-style workflows",
+                "homepage": "https://omnigraph.dev",
                 "id": 1207219415,
                 "language": "Rust",
-                "last_commit": "2026-08-27T20:46:31Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T18:09:43Z",
+                "open_issues": 38,
                 "owner": "ModernRelay",
                 "repo": "omnigraph",
-                "stars": 1083
+                "stars": 1084,
+                "topics": [
+                  "apache-arrow",
+                  "context-graph",
+                  "datafusion",
+                  "graph-database",
+                  "knowledge-graph",
+                  "lakehouse",
+                  "lance",
+                  "mcp",
+                  "rust",
+                  "s3",
+                  "versioning"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -256,12 +378,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One database for user-user (follows), user-item (likes), and item-item (related items) interactions — precomputed at write time, served as simple lookups",
+                "homepage": "https://actionbase.io",
                 "id": 1093894840,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T10:04:56Z",
+                "open_issues": 39,
                 "owner": "kakao",
                 "repo": "actionbase",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "database",
+                  "graphdb",
+                  "high-throughput",
+                  "low-latency",
+                  "oltp",
+                  "real-time",
+                  "scalability"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             }
@@ -279,12 +414,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A large-scale entity and relation database supporting aggregation of properties",
+                "homepage": null,
                 "id": 47973088,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-06T08:50:47Z",
+                "open_issues": 138,
                 "owner": "gchq",
                 "repo": "Gaffer",
-                "stars": 1787
+                "stars": 1787,
+                "topics": [
+                  "accumulo",
+                  "aggregation",
+                  "big-data",
+                  "graph",
+                  "graph-database",
+                  "hadoop",
+                  "hbase",
+                  "parquet",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             }
@@ -302,12 +452,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scalable datastore for metrics, events, and real-time analytics",
+                "homepage": "https://influxdata.com",
                 "id": 13124802,
                 "language": "Rust",
-                "last_commit": "2026-08-25T20:37:43Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:13:13Z",
+                "open_issues": 2157,
                 "owner": "influxdata",
                 "repo": "influxdb",
-                "stars": 31723
+                "stars": 31726,
+                "topics": [
+                  "database",
+                  "go",
+                  "influxdb",
+                  "metrics",
+                  "monitoring",
+                  "react",
+                  "rust",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -318,12 +482,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Druid: a high performance real-time analytics database.",
+                "homepage": "https://druid.apache.org/",
                 "id": 6358188,
                 "language": "Java",
-                "last_commit": "2026-08-28T03:37:20Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:42:08Z",
+                "open_issues": 789,
                 "owner": "apache",
                 "repo": "druid",
-                "stars": 14046
+                "stars": 14047,
+                "topics": [
+                  "druid"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -334,12 +505,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A scalable, distributed Time Series Database.",
+                "homepage": "http://opentsdb.net",
                 "id": 865412,
                 "language": "Java",
+                "license": "LGPL-2.1",
                 "last_commit": "2024-12-12T20:03:34Z",
+                "open_issues": 538,
                 "owner": "OpenTSDB",
                 "repo": "opentsdb",
-                "stars": 5065
+                "stars": 5065,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -350,12 +526,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast scalable time series database",
+                "homepage": null,
                 "id": 8039659,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-05T22:27:54Z",
+                "open_issues": 141,
                 "owner": "kairosdb",
                 "repo": "kairosdb",
-                "stars": 1762
+                "stars": 1762,
+                "topics": [
+                  "java",
+                  "kairosdb",
+                  "metrics",
+                  "timeseries",
+                  "timeseries-database"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -366,12 +553,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The Heroic Time Series Database",
+                "homepage": "https://spotify.github.io/heroic/",
                 "id": 36483902,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-26T19:35:27Z",
+                "open_issues": 70,
                 "owner": "spotify",
                 "repo": "heroic",
-                "stars": 846
+                "stars": 846,
+                "topics": [
+                  "cassandra",
+                  "elasticsearch",
+                  "google-bigtable",
+                  "google-pubsub",
+                  "ha",
+                  "java",
+                  "monitoring",
+                  "time-series",
+                  "tsdb"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -382,12 +584,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Time-series database",
+                "homepage": "http://akumuli.org",
                 "id": 16326644,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2022-08-07T01:52:15Z",
+                "open_issues": 63,
                 "owner": "akumuli",
                 "repo": "Akumuli",
-                "stars": 839
+                "stars": 839,
+                "topics": [
+                  "c-plus-plus",
+                  "database",
+                  "metrics",
+                  "time-series",
+                  "time-series-database",
+                  "tsdb"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -398,12 +612,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "See gitlab: https://gitlab.com/Project-FiFo/DalmatinerDB/dalmatinerdb",
+                "homepage": "https://dalmatiner.io",
                 "id": 20814855,
                 "language": "Erlang",
+                "license": "MIT",
                 "last_commit": "2019-02-11T02:48:59Z",
+                "open_issues": 28,
                 "owner": "dalmatinerdb",
                 "repo": "dalmatinerdb",
-                "stars": 691
+                "stars": 691,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -414,12 +633,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A distributed system designed to ingest and process time series data",
+                "homepage": "http://www.blueflood.io",
                 "id": 10081109,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-19T20:34:55Z",
+                "open_issues": 54,
                 "owner": "rax-maas",
                 "repo": "blueflood",
-                "stars": 598
+                "stars": 598,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -430,12 +654,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accumulo backed time series database",
+                "homepage": "https://code.nsa.gov/timely/",
                 "id": 56099345,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-13T16:12:32Z",
+                "open_issues": 20,
                 "owner": "NationalSecurityAgency",
                 "repo": "timely",
-                "stars": 396
+                "stars": 396,
+                "topics": [
+                  "accumulo",
+                  "hacktoberfest",
+                  "series-database",
+                  "time-series",
+                  "timeseries"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             }
@@ -453,12 +688,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight, lightning-fast, in-process vector database",
+                "homepage": "https://zvec.org",
                 "id": 1110443421,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T05:48:57Z",
+                "open_issues": 54,
                 "owner": "alibaba",
                 "repo": "zvec",
-                "stars": 15532
+                "stars": 15532,
+                "topics": [
+                  "agent-skills",
+                  "db",
+                  "embedded",
+                  "faiss",
+                  "hnsw",
+                  "llm-memory",
+                  "local",
+                  "rag",
+                  "search-engine",
+                  "semantic-search",
+                  "similarity-search",
+                  "vector-database",
+                  "vector-db"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -469,12 +723,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source graph database",
+                "homepage": "https://cayley.io",
                 "id": 20537104,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T10:33:26Z",
+                "open_issues": 93,
                 "owner": "cayleygraph",
                 "repo": "cayley",
-                "stars": 15062
+                "stars": 15063,
+                "topics": [
+                  "cayley",
+                  "go",
+                  "graph",
+                  "graph-database",
+                  "linked-data"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -485,12 +750,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get your data in RAM. Get compute close to data. Enjoy the performance.",
+                "homepage": "https://www.tarantool.io",
                 "id": 911980,
                 "language": "Lua",
-                "last_commit": "2026-08-27T22:07:04Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T17:16:33Z",
+                "open_issues": 1706,
                 "owner": "tarantool",
                 "repo": "tarantool",
-                "stars": 3664
+                "stars": 3664,
+                "topics": [
+                  "appserver",
+                  "database",
+                  "disk",
+                  "in-memory",
+                  "lua",
+                  "msgpack",
+                  "tarantool",
+                  "transactions"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -501,12 +780,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Project SnappyData - memory optimized analytics database, based on Apache Spark™ and Apache Geode™. Stream, Transact, Analyze, Predict in one cluster ",
+                "homepage": "http://www.snappydata.io",
                 "id": 42580991,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-21T12:17:56Z",
+                "open_issues": 117,
                 "owner": "TIBCOSoftware",
                 "repo": "snappydata",
-                "stars": 1033
+                "stars": 1033,
+                "topics": [
+                  "analytics",
+                  "memory-database",
+                  "scale",
+                  "snappydata",
+                  "spark",
+                  "stream",
+                  "transaction"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -517,12 +809,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An experimental embedded SQL engine in C++20. Query Parquet, CSV, JSON, Arrow, Avro, SQLite, and Excel files directly with SQL, in-process. Early-stage.",
+                "homepage": "https://slothdb.org",
                 "id": 1211492976,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-06-03T08:55:27Z",
+                "open_issues": 5,
                 "owner": "SouravRoy-ETL",
                 "repo": "slothdb",
-                "stars": 410
+                "stars": 410,
+                "topics": [
+                  "analytics",
+                  "arrow",
+                  "avro",
+                  "columnar-database",
+                  "cplusplus",
+                  "cpp",
+                  "csv",
+                  "database",
+                  "dataframe",
+                  "duckdb",
+                  "embedded-database",
+                  "natural-language-sql",
+                  "olap",
+                  "parquet",
+                  "python",
+                  "query-engine",
+                  "sql",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             }
@@ -541,12 +857,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pandas, Polars, Spark, and Snowpark DataFrame comparison for humans and more!",
+            "homepage": "https://capitalone.github.io/datacompy/",
             "id": 126487536,
             "language": "Python",
-            "last_commit": "2026-08-25T20:40:47Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:07:18Z",
+            "open_issues": 12,
             "owner": "capitalone",
             "repo": "datacompy",
-            "stars": 658
+            "stars": 658,
+            "topics": [
+              "compare",
+              "dask",
+              "data",
+              "data-science",
+              "dataframes",
+              "fugue",
+              "numpy",
+              "pandas",
+              "polars",
+              "pyspark",
+              "python",
+              "snowflake",
+              "snowpark",
+              "spark"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -557,12 +893,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility to compare data between homogeneous or heterogeneous environments to ensure source and target tables match",
+            "homepage": null,
             "id": 254738197,
             "language": "Python",
-            "last_commit": "2026-08-27T18:09:58Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:01:05Z",
+            "open_issues": 145,
             "owner": "GoogleCloudPlatform",
             "repo": "professional-services-data-validator",
-            "stars": 523
+            "stars": 523,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -573,12 +914,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolkit for frontier forecasting.",
+            "homepage": "https://futuresearch.ai",
             "id": 1134502076,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:31:02Z",
+            "open_issues": 3,
             "owner": "futuresearch",
             "repo": "futuresearch-python",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "claude-code-plugin",
+              "forecasting",
+              "mcp",
+              "multi-agent",
+              "prediction",
+              "sdk"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -589,12 +942,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blazingly fast data comparison tool for Python, powered by Rust. Compare massive CSV/Parquet datasets instantly.",
+            "homepage": null,
             "id": 1157219021,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-25T23:09:18Z",
+            "open_issues": 0,
             "owner": "godalida",
             "repo": "koala-diff",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "csv",
+              "data-engineering",
+              "data-quality",
+              "diff",
+              "high-performance",
+              "parquet",
+              "polars",
+              "python",
+              "rust",
+              "simd"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         }
@@ -611,12 +980,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fifteen bindings, with CLI, REST API, and MCP server.",
+            "homepage": "https://docs.xberg.io",
             "id": 925434317,
             "language": "Rust",
-            "last_commit": "2026-08-28T05:30:07Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:58:41Z",
+            "open_issues": 8,
             "owner": "xberg-io",
             "repo": "xberg",
-            "stars": 9229
+            "stars": 9233,
+            "topics": [
+              "bun",
+              "csharp",
+              "document-intelligence",
+              "elixir",
+              "ffi",
+              "golang",
+              "java",
+              "metadata-extraction",
+              "node",
+              "pdf-extraction",
+              "pdfium",
+              "php",
+              "python",
+              "rag",
+              "ruby",
+              "rust",
+              "table-extraction",
+              "tesseract",
+              "text-extraction",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -627,12 +1022,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).",
+            "homepage": "https://aws-sdk-pandas.readthedocs.io",
             "id": 172615836,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T00:09:29Z",
+            "open_issues": 57,
             "owner": "aws",
             "repo": "aws-sdk-pandas",
-            "stars": 4119
+            "stars": 4119,
+            "topics": [
+              "amazon-athena",
+              "amazon-sagemaker-notebook",
+              "apache-arrow",
+              "apache-parquet",
+              "athena",
+              "aws",
+              "aws-glue",
+              "aws-lambda",
+              "data-engineering",
+              "data-science",
+              "emr",
+              "etl",
+              "glue-catalog",
+              "lambda",
+              "modin",
+              "mysql",
+              "pandas",
+              "python",
+              "ray",
+              "redshift"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -643,12 +1064,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ingestr is a CLI tool to copy data between any databases with a single command seamlessly.",
+            "homepage": "https://getbruin.com/docs/ingestr/",
             "id": 756594023,
             "language": "Go",
-            "last_commit": "2026-08-27T19:52:08Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T16:43:43Z",
+            "open_issues": 32,
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3888
+            "stars": 3909,
+            "topics": [
+              "bigquery",
+              "copy-database",
+              "data-ingestion",
+              "data-integration",
+              "data-pipeline",
+              "duckdb",
+              "ingestion-pipeline",
+              "mssql",
+              "postgresql",
+              "snowflake"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -659,12 +1096,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED: Data collection and processing made easy.",
+            "homepage": "http://hekad.readthedocs.org/",
             "id": 6248212,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-23T01:44:36Z",
+            "open_issues": 232,
             "owner": "mozilla-services",
             "repo": "heka",
-            "stars": 3394
+            "stars": 3394,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -675,12 +1117,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.",
+            "homepage": "https://gobblin.apache.org/",
             "id": 27392543,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-31T06:45:24Z",
+            "open_issues": 142,
             "owner": "apache",
             "repo": "gobblin",
-            "stars": 2270
+            "stars": 2270,
+            "topics": [
+              "apache",
+              "data",
+              "ingestion",
+              "management",
+              "replication"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -691,12 +1144,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source ETL/ELT you deploy on your own servers or cloud. Built on DuckDB: no-code/low-code visual pipelines or SQL, 385 components, dbt, CDC, data quality, reverse ETL, lineage, MCP for AI agents. No vendor cloud, no per-row billing.",
+            "homepage": "https://duckle.org/",
             "id": 1245355924,
             "language": "Rust",
-            "last_commit": "2026-08-28T05:17:18Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T17:43:50Z",
+            "open_issues": 52,
             "owner": "slothflowlabs",
             "repo": "duckle",
-            "stars": 1243
+            "stars": 1245,
+            "topics": [
+              "cdc",
+              "connectors",
+              "data-engineering",
+              "data-integration",
+              "data-orchestration",
+              "data-pipeline",
+              "data-quality",
+              "data-transformation",
+              "dbt",
+              "duckdb",
+              "elt",
+              "etl",
+              "kubernetes",
+              "lakehouse",
+              "low-code",
+              "mcp",
+              "no-code",
+              "open-source",
+              "reverse-etl",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -707,12 +1186,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PDF extraction that audits its own output — and certifies any other extractor's, catching pages they silently dropped. Verify signed manifests offline: free, MIT, no account. 0.903 on opendataloader-bench, #2 of 8 engines. 7-tool MCP server.",
+            "homepage": "https://pdfmux.com",
             "id": 1171815558,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-13T08:03:22Z",
+            "open_issues": 4,
             "owner": "NameetP",
             "repo": "pdfmux",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "ai-agent",
+              "docling",
+              "document-ai",
+              "document-parsing",
+              "langchain",
+              "llamaindex",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "ocr",
+              "opendataloader",
+              "pdf",
+              "pdf-extraction",
+              "pdf-parser",
+              "pdf-to-json",
+              "pdf-to-markdown",
+              "python",
+              "rag",
+              "self-healing",
+              "structured-extraction"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -723,12 +1228,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reverse ETL for the code-first data stack",
+            "homepage": "https://drt-hub.github.io/drt-web/",
             "id": 1193163237,
             "language": "Python",
-            "last_commit": "2026-08-28T04:01:48Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:04:20Z",
+            "open_issues": 49,
             "owner": "drt-hub",
             "repo": "drt",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "bigquery",
+              "cli",
+              "clickhouse",
+              "dagster",
+              "data-activation",
+              "data-engineering",
+              "data-pipeline",
+              "data-warehouse",
+              "dbt",
+              "duckdb",
+              "etl",
+              "llm",
+              "mcp",
+              "mysql",
+              "postgres",
+              "python",
+              "redshift",
+              "reverse-etl",
+              "sqlite",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -739,12 +1270,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Live import all your Google Sheets to your data warehouse",
+            "homepage": null,
             "id": 212629567,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-03-02T16:53:46Z",
+            "open_issues": 3,
             "owner": "fulldecent",
             "repo": "google-sheets-etl",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "data-vault",
+              "data-warehouse",
+              "etl"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -755,12 +1295,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performant ETL engine written in TypeScript ",
+            "homepage": "https://pujansrt.github.io/data-genie/",
             "id": 1011899424,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-05T07:20:56Z",
+            "open_issues": 0,
             "owner": "pujansrt",
             "repo": "data-genie",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "data-processing",
+              "etl",
+              "etl-framework",
+              "streaming-data",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -771,12 +1322,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fast, config-driven way to move data in Rust — a native CLI and an embeddable Rust ETL library",
+            "homepage": "https://faucet-hq.github.io/faucet-stream/",
             "id": 1189252746,
             "language": "Rust",
-            "last_commit": "2026-08-27T13:24:37Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T07:24:23Z",
+            "open_issues": 47,
             "owner": "faucet-hq",
             "repo": "faucet-stream",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "cdc",
+              "cli",
+              "connectors",
+              "data-engineering",
+              "data-integration",
+              "data-pipeline",
+              "elt",
+              "etl",
+              "kafka",
+              "parquet",
+              "rust",
+              "singer",
+              "streaming"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -787,12 +1357,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conflict-free merge for DataFrames, JSON, ML models & distributed agents — powered by CRDTs. The first merge library where every operation is mathematically guaranteed to converge.",
+            "homepage": "https://pypi.org/project/crdt-merge/",
             "id": 1203160201,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-09T08:40:19Z",
+            "open_issues": 6,
             "owner": "mgillr",
             "repo": "crdt-merge",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "collaborative-editing",
+              "conflict-resolution",
+              "crdt",
+              "data-engineering",
+              "data-synchronization",
+              "distributed-systems",
+              "federated-learning",
+              "llm",
+              "lora",
+              "machine-learning",
+              "merge",
+              "mergekit",
+              "model-merging",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -803,12 +1393,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://rawbbit.one/",
             "id": 1229145922,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T18:49:58Z",
+            "open_issues": 0,
             "owner": "mirlan-irokez",
             "repo": "rawbbit",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -819,12 +1414,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data ingestion engine — Singer taps to Parquet in cloud buckets",
+            "homepage": "https://pypi.org/project/dataspoc-pipe/",
             "id": 1190981553,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-28T00:28:02Z",
+            "open_issues": 0,
             "owner": "dataspoclab",
             "repo": "dataspoc-pipe",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "cli",
+              "data",
+              "data-engineering",
+              "data-lake",
+              "duckdb",
+              "etl",
+              "parquet",
+              "python",
+              "singer"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -835,12 +1445,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1051550683,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-09-13T09:03:25Z",
+            "open_issues": 0,
             "owner": "bahador-r",
             "repo": "db2lake",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -851,12 +1466,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pipeline de ingestão e busca semântica de documentos para RAG — com rate limiting, circuit breaker e fila  resiliente.",
+            "homepage": null,
             "id": 1235064802,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-04T02:36:00Z",
+            "open_issues": 0,
             "owner": "whispering3",
             "repo": "CARQ",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "docker",
+              "generative-ai",
+              "pipeline",
+              "python",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -867,12 +1493,33 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Enrich any CSV with company data (revenue, employees, credit score) from 250M+ companies. Free ZoomInfo/Clearbit alternative. Zero dependencies.",
+            "homepage": "https://score.get-scala.com",
             "id": 1267224683,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-16T23:22:15Z",
+            "open_issues": 7,
             "owner": "Alessandro114",
             "repo": "enrich-companies",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "b2b-data",
+              "business-data",
+              "business-intelligence",
+              "cli",
+              "company-data",
+              "company-lookup",
+              "csv",
+              "data-enrichment",
+              "financial-data",
+              "lead-enrichment",
+              "npm",
+              "open-data",
+              "open-source",
+              "sales-intelligence",
+              "score-api"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -888,12 +1535,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CMAK is a tool for managing Apache Kafka clusters",
+                "homepage": null,
                 "id": 29981861,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-02T19:26:23Z",
+                "open_issues": 522,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11925
+                "stars": 11925,
+                "topics": [
+                  "big-data",
+                  "cluster-management",
+                  "kafka",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -904,12 +1561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dockerfile for Apache Kafka",
+                "homepage": "http://wurstmeister.github.io/kafka-docker/",
                 "id": 15405607,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-08T12:11:08Z",
+                "open_issues": 126,
                 "owner": "wurstmeister",
                 "repo": "kafka-docker",
-                "stars": 6960
+                "stars": 6960,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -920,12 +1582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generic command line non-JVM Apache Kafka producer and consumer",
+                "homepage": null,
                 "id": 18257358,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-09T16:13:37Z",
+                "open_issues": 162,
                 "owner": "edenhill",
                 "repo": "kcat",
-                "stars": 5778
+                "stars": 5778,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -936,12 +1603,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js client for Apache Kafka 0.8 and later.",
+                "homepage": null,
                 "id": 13792721,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-08-30T18:34:06Z",
+                "open_issues": 444,
                 "owner": "SOHU-Co",
                 "repo": "kafka-node",
-                "stars": 2651
+                "stars": 2651,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -952,12 +1624,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secor is a service implementing Kafka log persistence",
+                "homepage": null,
                 "id": 18818296,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-10T08:39:10Z",
+                "open_issues": 269,
                 "owner": "pinterest",
                 "repo": "secor",
-                "stars": 1856
+                "stars": 1856,
+                "topics": [
+                  "kafka"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -968,12 +1647,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Apache Kafka C/C++ library",
+                "homepage": null,
                 "id": 5870069,
                 "language": "C",
-                "last_commit": "2026-08-27T08:38:46Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T14:27:06Z",
+                "open_issues": 586,
                 "owner": "confluentinc",
                 "repo": "librdkafka",
-                "stars": 1039
+                "stars": 1040,
+                "topics": [
+                  "apache-kafka",
+                  "c",
+                  "c-plus-plus",
+                  "consumer",
+                  "high-performance",
+                  "kafka",
+                  "kafka-consumer",
+                  "kafka-producer",
+                  "librdkafka"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -984,12 +1678,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KafkaT-ool",
+                "homepage": null,
                 "id": 22970217,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2019-06-01T03:39:38Z",
+                "open_issues": 14,
                 "owner": "airbnb",
                 "repo": "kafkat",
-                "stars": 502
+                "stars": 502,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -1000,12 +1699,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kroxylicious, the snappy open source proxy for Apache Kafka®",
+                "homepage": "https://kroxylicious.io",
                 "id": 473134112,
                 "language": "Java",
-                "last_commit": "2026-08-28T04:51:24Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:34:36Z",
+                "open_issues": 383,
                 "owner": "kroxylicious",
                 "repo": "kroxylicious",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "apache-kafka",
+                  "java",
+                  "kafka",
+                  "proxy"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -1016,12 +1725,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "INACTIVE: A PostgreSQL extension to produce messages to Apache Kafka.",
+                "homepage": null,
                 "id": 23713984,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2015-04-03T00:35:32Z",
+                "open_issues": 3,
                 "owner": "xstevens",
                 "repo": "pg_kafka",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -1032,12 +1746,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A kafka logger for winston",
+                "homepage": null,
                 "id": 25228957,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-10-11T17:52:42Z",
+                "open_issues": 4,
                 "owner": "uber",
                 "repo": "kafka-logger",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             }
@@ -1056,12 +1775,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+            "homepage": "https://juicefs.com",
             "id": 327859577,
             "language": "Go",
-            "last_commit": "2026-08-28T05:27:12Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T11:10:19Z",
+            "open_issues": 197,
             "owner": "juicedata",
             "repo": "juicefs",
-            "stars": 14365
+            "stars": 14366,
+            "topics": [
+              "bigdata",
+              "cloud-native",
+              "distributed-systems",
+              "filesystem",
+              "go",
+              "golang",
+              "hdfs",
+              "object-storage",
+              "posix",
+              "redis",
+              "s3",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1072,12 +1809,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a full featured file system for online data storage",
+            "homepage": null,
             "id": 38976977,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T19:27:36Z",
+            "open_issues": 11,
             "owner": "s3ql",
             "repo": "s3ql",
-            "stars": 1269
+            "stars": 1269,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1088,12 +1830,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+            "homepage": "https://seaweedfs.com",
             "id": 1128557039,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-21T07:44:51Z",
+            "open_issues": 1,
             "owner": "chrislusf",
             "repo": "seaweedfs",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1104,12 +1851,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The GA Release of SnackFS",
+            "homepage": null,
             "id": 17894196,
             "language": "Scala",
+            "license": null,
             "last_commit": "2015-07-09T12:32:04Z",
+            "open_issues": 2,
             "owner": "tuplejump",
             "repo": "snackfs-release",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1125,12 +1877,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A pure python HDFS client",
+                "homepage": null,
                 "id": 9908723,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-19T08:38:22Z",
+                "open_issues": 69,
                 "owner": "spotify",
                 "repo": "snakebite",
-                "stars": 856
+                "stars": 856,
+                "topics": [
+                  "hdfs",
+                  "python",
+                  "python-hdfs-client"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             }
@@ -1148,12 +1909,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utils for streaming large files (S3, HDFS, gzip, bz2...)",
+                "homepage": null,
                 "id": 28713483,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-04T08:34:12Z",
+                "open_issues": 3,
                 "owner": "piskvorky",
                 "repo": "smart_open",
-                "stars": 3457
+                "stars": 3457,
+                "topics": [
+                  "boto",
+                  "bz2",
+                  "file",
+                  "gzip-stream",
+                  "hacktoberfest",
+                  "hdfs",
+                  "python",
+                  "s3",
+                  "streaming",
+                  "streaming-data",
+                  "webhdfs"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             }
@@ -1172,12 +1950,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Protocol Buffers - Google's data interchange format",
+            "homepage": "http://protobuf.dev",
             "id": 23357588,
             "language": "C++",
-            "last_commit": "2026-08-28T06:06:55Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:08:23Z",
+            "open_issues": 313,
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71824
+            "stars": 71829,
+            "topics": [
+              "marshalling",
+              "protobuf",
+              "protobuf-runtime",
+              "protoc",
+              "protocol-buffers",
+              "protocol-compiler",
+              "rpc",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1188,12 +1980,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java binary serialization and cloning: fast, efficient, automatic",
+            "homepage": null,
             "id": 14173176,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T12:00:32Z",
+            "open_issues": 28,
             "owner": "EsotericSoftware",
             "repo": "kryo",
-            "stars": 6545
+            "stars": 6545,
+            "topics": [
+              "cloning",
+              "java",
+              "kryo",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1204,12 +2006,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trust metadata for AI agents — a stamp costs ~15 tokens, re-verifying costs 15,000. Agents stamp what they verify; the next agent runs 'akf check' and builds on it. pip install akf",
+            "homepage": "https://akf.dev",
             "id": 1169420276,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-02T02:54:40Z",
+            "open_issues": 7,
             "owner": "HMAKT99",
             "repo": "AKF",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "agent",
+              "ai",
+              "ai-agents",
+              "ai-governance",
+              "ai-safety",
+              "claude-code-plugin",
+              "compliance",
+              "content-provenance",
+              "eu-ai-act",
+              "file-format",
+              "llamaindex",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "metadata",
+              "provenance",
+              "python",
+              "trust",
+              "trust-metadata",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1220,12 +2048,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cold storage that queries like hot storage. High-ratio JSONL compressor with block-level random access. Query cold storage in seconds — no restore, no full decompression. 5–13% ratio on JSONL logs, 25–57% smaller than gzip. 1-hour window via DuckDB in under 6s. Free for personal and open-source use.",
+            "homepage": null,
             "id": 1198473087,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-06-19T14:00:45Z",
+            "open_issues": 0,
             "owner": "ImpossibleForge",
             "repo": "pfc-jsonl",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "cli",
+              "compression",
+              "cost-savings",
+              "data-compression",
+              "duckdb",
+              "egress",
+              "egress-control",
+              "egress-cost",
+              "fluent-bit",
+              "jsonl",
+              "log-archival",
+              "log-compression",
+              "query-cold-storage",
+              "query-old-logs-s3",
+              "query-s3",
+              "reduce-s3-egress",
+              "s3",
+              "s3-cost",
+              "storage-optimization",
+              "structured-logs"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1241,12 +2095,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast compressor/decompressor",
+                "homepage": "https://github.com/google/snappy",
                 "id": 17381605,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-31T10:19:58Z",
+                "open_issues": 65,
                 "owner": "google",
                 "repo": "snappy",
-                "stars": 6601
+                "stars": 6601,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             }
@@ -1265,12 +2124,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+            "homepage": "https://pathway.com",
             "id": 571186647,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T05:31:40Z",
+            "open_issues": 35,
             "owner": "pathwaycom",
             "repo": "pathway",
-            "stars": 62376
+            "stars": 62374,
+            "topics": [
+              "batch-processing",
+              "data-analytics",
+              "data-pipelines",
+              "data-processing",
+              "dataflow",
+              "etl",
+              "etl-framework",
+              "iot-analytics",
+              "kafka",
+              "machine-learning-algorithms",
+              "pathway",
+              "python",
+              "real-time",
+              "rust",
+              "stream-processing",
+              "streaming",
+              "time-series-analysis"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1281,12 +2163,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+            "homepage": "https://cocoindex.io",
             "id": 942312530,
             "language": "Rust",
-            "last_commit": "2026-08-27T19:08:48Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:26:54Z",
+            "open_issues": 74,
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11422
+            "stars": 11430,
+            "topics": [
+              "agentic-data-framework",
+              "ai",
+              "ai-agents",
+              "change-data-capture",
+              "codebase-intelligence",
+              "context-engineering",
+              "data-engineering",
+              "data-indexing",
+              "data-processing",
+              "etl",
+              "help-wanted",
+              "indexing",
+              "knowledge-graph",
+              "llm",
+              "long-horizon-agent",
+              "python",
+              "rag",
+              "real-time",
+              "rust",
+              "semantic-search"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1297,12 +2205,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance time-series aggregation for PostgreSQL",
+            "homepage": "https://www.pipelinedb.com",
             "id": 14702444,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2022-02-20T10:24:23Z",
+            "open_issues": 133,
             "owner": "pipelinedb",
             "repo": "pipelinedb",
-            "stars": 2662
+            "stars": 2662,
+            "topics": [
+              "aggregation",
+              "analytics",
+              "pipelinedb",
+              "postgresql",
+              "push",
+              "realtime",
+              "sql",
+              "stream-processing",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1313,12 +2236,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python Stream Processing. A Faust fork",
+            "homepage": "https://faust-streaming.github.io/faust/",
             "id": 306382059,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-23T06:42:05Z",
+            "open_issues": 148,
             "owner": "faust-streaming",
             "repo": "faust",
-            "stars": 1884
+            "stars": 1884,
+            "topics": [
+              "asyncio",
+              "distributed-systems",
+              "kafka",
+              "python-streaming",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1329,12 +2263,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight data stream processing engine for IoT edge",
+            "homepage": "https://ekuiper.org",
             "id": 195003588,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T05:24:10Z",
+            "open_issues": 49,
             "owner": "lf-edge",
             "repo": "ekuiper",
-            "stars": 1732
+            "stars": 1733,
+            "topics": [
+              "edge",
+              "edge-analytics",
+              "edge-computing",
+              "edge-streaming",
+              "hacktoberfest",
+              "iot",
+              "rule-engine",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1345,12 +2293,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦎 A lightweight, multi-protocol gateway for event-driven applications and AI agents. Expose and govern Kafka, MQTT, APIs, and MCP through one high-performance engine with shared routing, security, schema, and observability.",
+            "homepage": "https://docs.aklivity.io/latest",
             "id": 436039945,
             "language": "Java",
-            "last_commit": "2026-08-28T05:08:20Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T23:59:33Z",
+            "open_issues": 227,
             "owner": "aklivity",
             "repo": "zilla",
-            "stars": 1711
+            "stars": 1713,
+            "topics": [
+              "api-gateway",
+              "asyncapi",
+              "event-driven-architecture",
+              "event-stream-proxy",
+              "event-streaming",
+              "grpc",
+              "iot",
+              "kafka",
+              "kafka-proxy",
+              "mqtt",
+              "openapi",
+              "proxy",
+              "rest",
+              "server-sent-events",
+              "streaming-api"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1361,12 +2330,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HStreamDB is an open-source, cloud-native streaming database for IoT and beyond. Modernize your data stack for real-time applications.",
+            "homepage": "https://hstream.io/",
             "id": 291675222,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-12-26T02:51:04Z",
+            "open_issues": 11,
             "owner": "hstreamdb",
             "repo": "hstream",
-            "stars": 722
+            "stars": 722,
+            "topics": [
+              "data-processing",
+              "database",
+              "distributed-database",
+              "distributed-systems",
+              "financial-analysis",
+              "haskell",
+              "hstreamdb",
+              "iot",
+              "iot-database",
+              "kafka",
+              "materialized-view",
+              "real-time",
+              "realtime-database",
+              "scale",
+              "sql",
+              "stream-processing",
+              "streaming",
+              "streaming-data",
+              "streaming-database"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         }
@@ -1383,12 +2377,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Substation is a toolkit for routing, normalizing, and enriching security event and audit logs.",
+            "homepage": "https://substation.readme.io",
             "id": 481983343,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-01-20T18:53:05Z",
+            "open_issues": 3,
             "owner": "brexhq",
             "repo": "substation",
-            "stars": 404
+            "stars": 405,
+            "topics": [
+              "automation",
+              "aws",
+              "logging",
+              "monitoring",
+              "observability",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1399,12 +2405,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run scripts, explore your genome, and get personalized explanations — all in natural dialogue.",
+            "homepage": "https://claude-dna-example.vercel.app",
             "id": 1129232830,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-04T23:57:04Z",
+            "open_issues": 0,
             "owner": "shmlkv",
             "repo": "dna-claude-analysis",
-            "stars": 56
+            "stars": 57,
+            "topics": [
+              "analysis",
+              "claude",
+              "claudecode",
+              "dna",
+              "genome"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1415,12 +2432,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A general-purpose data analysis engine radically changing the way batch and stream data is processed",
+            "homepage": "https://linkedin.com/in/alexandrsavinov/",
             "id": 110134042,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2018-09-07T15:50:47Z",
+            "open_issues": 1,
             "owner": "asavinov",
             "repo": "bistro",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "analytics",
+              "big-data-analytics",
+              "edge-analytics",
+              "iot",
+              "stream-analytics",
+              "stream-processing"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1436,12 +2465,29 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Spark UI and Spark History Server alternative with CPU and Memory metrics! Delight is free, cross-platform, and open-source.",
+                "homepage": "https://www.datamechanics.co/delight",
                 "id": 307389674,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-31T14:14:28Z",
+                "open_issues": 0,
                 "owner": "datamechanics",
                 "repo": "delight",
-                "stars": 344
+                "stars": 344,
+                "topics": [
+                  "apache-spark",
+                  "cpu",
+                  "dashboard",
+                  "delight",
+                  "kubernetes",
+                  "memory",
+                  "monitoring",
+                  "netapp-public",
+                  "spark",
+                  "spark-history-server",
+                  "spark-ui"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -1452,12 +2498,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Connecting Apache Spark with different data stores [DEPRECATED]",
+                "homepage": "http://stratio.github.io/deep-spark",
                 "id": 16942067,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2016-07-04T13:44:14Z",
+                "open_issues": 0,
                 "owner": "Stratio",
                 "repo": "deep-spark",
-                "stars": 197
+                "stars": 197,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             }
@@ -1475,12 +2526,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data engineering and machine learning toolkit for Go.",
+                "homepage": null,
                 "id": 722690145,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-05-01T14:12:12Z",
+                "open_issues": 13,
                 "owner": "rbmuller",
                 "repo": "datatrax",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             }
@@ -1503,12 +2559,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python interface to Hive and Presto. 🐝",
+                    "homepage": null,
                     "id": 16431132,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-13T16:48:16Z",
+                    "open_issues": 222,
                     "owner": "dropbox",
                     "repo": "PyHive",
-                    "stars": 1693
+                    "stars": 1693,
+                    "topics": [
+                      "dbapi",
+                      "hive",
+                      "hiveserver2",
+                      "presto",
+                      "python",
+                      "sqlalchemy"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:07:13.018Z"
                 },
@@ -1519,12 +2587,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Mirror of Apache Hivemall (incubating)",
+                    "homepage": null,
                     "id": 68273151,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-09-06T15:55:16Z",
+                    "open_issues": 8,
                     "owner": "apache",
                     "repo": "incubator-hivemall",
-                    "stars": 313
+                    "stars": 313,
+                    "topics": [
+                      "hivemall"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:07:13.018Z"
                 }
@@ -1545,12 +2620,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+            "homepage": "https://superset.apache.org/",
             "id": 39464018,
             "language": "Python",
-            "last_commit": "2026-08-28T06:01:31Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:38:51Z",
+            "open_issues": 611,
             "owner": "apache",
             "repo": "superset",
-            "stars": 74502
+            "stars": 74520,
+            "topics": [
+              "analytics",
+              "apache",
+              "apache-superset",
+              "asf",
+              "bi",
+              "business-analytics",
+              "business-intelligence",
+              "data-analysis",
+              "data-analytics",
+              "data-engineering",
+              "data-science",
+              "data-visualization",
+              "data-viz",
+              "flask",
+              "python",
+              "react",
+              "sql-editor",
+              "superset"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1561,12 +2660,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
+            "homepage": "https://metabase.com",
             "id": 30203935,
             "language": "Clojure",
-            "last_commit": "2026-08-28T05:59:16Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:20:01Z",
+            "open_issues": 4459,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48970
+            "stars": 48981,
+            "topics": [
+              "analytics",
+              "bi",
+              "business-intelligence",
+              "businessintelligence",
+              "clojure",
+              "dashboard",
+              "data",
+              "data-analysis",
+              "data-visualization",
+              "database",
+              "metabase",
+              "mysql",
+              "postgres",
+              "postgresql",
+              "reporting",
+              "slack",
+              "sql-editor",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1577,12 +2700,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+            "homepage": "https://plotly.com/dash",
             "id": 33702544,
             "language": "Python",
-            "last_commit": "2026-08-27T17:50:53Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:53:13Z",
+            "open_issues": 533,
             "owner": "plotly",
             "repo": "dash",
-            "stars": 24388
+            "stars": 24392,
+            "topics": [
+              "ai",
+              "bioinformatics",
+              "charting",
+              "dash",
+              "dashboards",
+              "data-science",
+              "data-visualization",
+              "finance",
+              "flask",
+              "gui-framework",
+              "jupyter",
+              "plotly",
+              "plotly-dash",
+              "productivity",
+              "python",
+              "react",
+              "technical-computing",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1593,12 +2740,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Python helpers for building dashboards using Flask and React",
+            "homepage": null,
             "id": 37883782,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-06T18:59:30Z",
+            "open_issues": 0,
             "owner": "stitchfix",
             "repo": "pyxley",
-            "stars": 2261
+            "stars": 2261,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1609,12 +2761,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source backend for Kepler.gl. Self-hosted alternative to CARTO and Foursquare Studio.",
+            "homepage": "https://dekart.xyz",
             "id": 325733195,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T12:07:12Z",
+            "open_issues": 35,
             "owner": "dekart-xyz",
             "repo": "dekart",
-            "stars": 402
+            "stars": 402,
+            "topics": [
+              "analytics",
+              "athena",
+              "bigquey",
+              "deck-gl",
+              "gis-platform",
+              "keplergl",
+              "maps",
+              "snowflakedb",
+              "spatial-analysis",
+              "sql",
+              "vizualisation",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1625,12 +2795,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source local-first AI data analyst for CSV, Excel, and read-only databases. Verify evidence and build editable reports.",
+            "homepage": null,
             "id": 1041790571,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-30T03:41:48Z",
+            "open_issues": 0,
             "owner": "MoonMao42",
             "repo": "ReceiptBI",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "ai-data-analyst",
+              "business-intelligence",
+              "chatbi",
+              "csv",
+              "data-analysis",
+              "data-visualization",
+              "desktop-app",
+              "duckdb",
+              "excel",
+              "local-first",
+              "natural-language-query",
+              "open-source",
+              "read-only-database",
+              "reporting",
+              "self-hosted",
+              "semantic-layer",
+              "sql",
+              "text-to-sql"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         }
@@ -1647,12 +2841,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "homepage": "https://airflow.apache.org/",
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-27T23:32:41Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:27:46Z",
+            "open_issues": 1983,
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46623
+            "stars": 46630,
+            "topics": [
+              "airflow",
+              "apache",
+              "apache-airflow",
+              "automation",
+              "dag",
+              "data-engineering",
+              "data-integration",
+              "data-orchestrator",
+              "data-pipelines",
+              "data-science",
+              "elt",
+              "etl",
+              "machine-learning",
+              "mlops",
+              "orchestration",
+              "python",
+              "scheduler",
+              "workflow",
+              "workflow-engine",
+              "workflow-orchestration"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1663,12 +2883,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
+            "homepage": "https://go.kestra.io/home",
             "id": 204164353,
             "language": "Java",
-            "last_commit": "2026-08-28T05:12:50Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T16:05:52Z",
+            "open_issues": 676,
             "owner": "kestra-io",
             "repo": "kestra",
-            "stars": 27941
+            "stars": 27945,
+            "topics": [
+              "ai-agents",
+              "automation",
+              "control-plane",
+              "data-engineering",
+              "data-orchestration",
+              "data-orchestrator",
+              "devops",
+              "etl",
+              "hacktoberfest",
+              "high-availability",
+              "infra-automation",
+              "infra-ops",
+              "infrastructure-as-code",
+              "java",
+              "low-code",
+              "orchestration",
+              "pipeline",
+              "pipeline-as-code",
+              "scheduler",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1679,12 +2925,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.",
+            "homepage": null,
             "id": 5888353,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-18T11:15:46Z",
+            "open_issues": 170,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18768
+            "stars": 18768,
+            "topics": [
+              "hadoop",
+              "luigi",
+              "orchestration-framework",
+              "python",
+              "scheduling"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1695,12 +2952,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An orchestration platform for the development, production, and observation of data assets.",
+            "homepage": "https://dagster.io",
             "id": 131619646,
             "language": "Python",
-            "last_commit": "2026-08-28T03:19:07Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T17:14:34Z",
+            "open_issues": 2586,
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 16068
+            "stars": 16072,
+            "topics": [
+              "analytics",
+              "dagster",
+              "data-engineering",
+              "data-integration",
+              "data-orchestrator",
+              "data-pipelines",
+              "data-science",
+              "etl",
+              "metadata",
+              "mlops",
+              "orchestration",
+              "python",
+              "scheduler",
+              "workflow",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1711,12 +2989,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy Data Preparation with latest LLMs-based Operators and Pipelines.",
+            "homepage": "https://OpenDCAI.github.io/DataFlow-Doc/",
             "id": 872005985,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T12:18:15Z",
+            "open_issues": 9,
             "owner": "OpenDCAI",
             "repo": "DataFlow",
-            "stars": 7789
+            "stars": 7807,
+            "topics": [
+              "data",
+              "data-agent",
+              "data-cleaning",
+              "data-pipelines",
+              "data-processing",
+              "data-science",
+              "data-synthesis",
+              "gradio-interface",
+              "llms",
+              "operators",
+              "quick-data-processing",
+              "sglang-bankend",
+              "vllm-backend"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1727,12 +3024,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Privacy and Security focused Segment-alternative, in Golang and React  ",
+            "homepage": "https://www.rudderstack.com/",
             "id": 197743848,
             "language": "Go",
-            "last_commit": "2026-08-28T06:00:14Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T14:13:28Z",
+            "open_issues": 47,
             "owner": "rudderlabs",
             "repo": "rudder-server",
-            "stars": 4477
+            "stars": 4478,
+            "topics": [
+              "bigquery",
+              "cdp",
+              "customer-data",
+              "customer-data-lake",
+              "customer-data-pipeline",
+              "customer-data-platform",
+              "data-engineering",
+              "data-integration",
+              "data-pipeline",
+              "data-synchronization",
+              "data-warehouse",
+              "elt",
+              "etl",
+              "event-streaming",
+              "privacy",
+              "redshift",
+              "segment-alternative",
+              "snowflake",
+              "warehouse-management",
+              "warehouse-native"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1743,12 +3066,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.",
+            "homepage": "https://hamilton.apache.org/",
             "id": 605682921,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T04:38:48Z",
+            "open_issues": 156,
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2580
+            "stars": 2582,
+            "topics": [
+              "dag",
+              "data-analysis",
+              "data-engineering",
+              "data-science",
+              "dataframe",
+              "etl",
+              "etl-framework",
+              "etl-pipeline",
+              "feature-engineering",
+              "hacktoberfest",
+              "lineage",
+              "llmops",
+              "machine-learning",
+              "mlops",
+              "orchestration",
+              "pandas",
+              "python",
+              "rag",
+              "software-engineering"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1759,12 +3107,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.",
+            "homepage": "https://getbruin.com/docs/bruin/",
             "id": 674225653,
             "language": "Go",
-            "last_commit": "2026-08-27T15:29:48Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:08:48Z",
+            "open_issues": 60,
             "owner": "bruin-data",
             "repo": "bruin",
-            "stars": 1678
+            "stars": 1679,
+            "topics": [
+              "analytics",
+              "bigquery",
+              "data-analysis",
+              "data-ingestion",
+              "data-modeling",
+              "data-pipelines",
+              "data-platform",
+              "data-transformation",
+              "python",
+              "snowflake",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1775,12 +3140,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census. ",
+            "homepage": "https://aisquared.ai/enterprise/",
             "id": 707752626,
             "language": "Ruby",
-            "last_commit": "2026-08-28T02:59:55Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:30:28Z",
+            "open_issues": 175,
             "owner": "Multiwoven",
             "repo": "multiwoven",
-            "stars": 1671
+            "stars": 1672,
+            "topics": [
+              "bigquery",
+              "cdp",
+              "customer-data-platform",
+              "data-activation",
+              "data-engineering",
+              "data-pipeline",
+              "data-warehouse",
+              "databricks",
+              "dbt",
+              "etl",
+              "hacktoberfest",
+              "open-source",
+              "postresql",
+              "react",
+              "redshift",
+              "reverse-etl",
+              "ruby",
+              "self-hosted",
+              "snowflake",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1791,12 +3182,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Pinball is a scalable workflow manager",
+            "homepage": null,
             "id": 31635428,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2019-12-10T19:01:58Z",
+            "open_issues": 13,
             "owner": "pinterest",
             "repo": "pinball",
-            "stars": 1046
+            "stars": 1046,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1807,12 +3203,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source-available semantic layer and sidecar for agentic AI and governed analytics. Compiles declarative YAML models into optimized SQL, KPIs, and semantic context across 8 SQL dialects.",
+            "homepage": "https://ralforion.com/orionbelt-semantic-layer/",
             "id": 1154643037,
             "language": "Python",
-            "last_commit": "2026-08-25T16:18:35Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T21:47:12Z",
+            "open_issues": 1,
             "owner": "ralforion",
             "repo": "orionbelt-semantic-layer",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "agentic-ai",
+              "analytics-as-code",
+              "bigquery",
+              "business-intelligence",
+              "clickhouse",
+              "data-analytics",
+              "databricks",
+              "dremio",
+              "duckdb",
+              "headless-bi",
+              "mcp",
+              "mcp-server",
+              "metrics-layer",
+              "mysql",
+              "postgresql",
+              "semantic-layer",
+              "semantic-sidecar",
+              "snowflake",
+              "text-to-sql",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1823,12 +3245,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋",
+            "homepage": "https://nika.sh",
             "id": 1126625946,
             "language": "Rust",
-            "last_commit": "2026-08-27T10:10:32Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-28T09:28:46Z",
+            "open_issues": 45,
             "owner": "supernovae-st",
             "repo": "nika",
-            "stars": 58
+            "stars": 60,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "ai-workflows",
+              "automation",
+              "cli",
+              "dag",
+              "developer-tools",
+              "devops",
+              "llm",
+              "local-ai",
+              "mcp",
+              "ollama",
+              "rust",
+              "self-hosted",
+              "structured-output",
+              "workflow",
+              "workflow-automation",
+              "workflow-engine",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1839,12 +3287,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data policy IN, dynamic view OUT: PACE is the Policy As Code Engine. It helps you to programatically create and apply a data policy to a processing platform like Databricks, Snowflake or BigQuery (or plain 'ol Postgres, even!) with definitions imported from Collibra, Datahub, ODD and the like. ",
+            "homepage": "https://pace.getstrm.com",
             "id": 706692316,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T22:30:23Z",
+            "open_issues": 16,
             "owner": "getstrm",
             "repo": "pace",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "bigquery",
+              "data-catalog",
+              "data-contracts",
+              "data-governance",
+              "data-processing",
+              "databricks",
+              "policy-enforcement",
+              "snowflake"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1855,12 +3317,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One interface for your whole data stack, with built-in safeguards and a simpler workflow for your team. Written in Rust. Docker not needed.",
+            "homepage": "https://onequery.dev",
             "id": 1195711958,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-30T09:22:23Z",
+            "open_issues": 0,
             "owner": "wordbricks",
             "repo": "onequery",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "agent",
+              "ai",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "claude",
+              "claude-code",
+              "cli",
+              "codex",
+              "hermes",
+              "llm",
+              "openai",
+              "openclaw",
+              "rust",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1871,12 +3354,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎲 Dotflow turns an idea into flow! — Lightweight Python library for execution pipelines",
+            "homepage": "https://dotflow-io.github.io/dotflow/",
             "id": 908417376,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T07:16:27Z",
+            "open_issues": 37,
             "owner": "dotflow-io",
             "repo": "dotflow",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "async",
+              "automation",
+              "cron",
+              "etl",
+              "etl-framework",
+              "etl-pipeline",
+              "orchestration",
+              "parallel-processing",
+              "pipeline",
+              "python",
+              "python-library",
+              "python3",
+              "retry",
+              "scheduler",
+              "task-management",
+              "task-runner",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         }
@@ -1893,12 +3400,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lakeFS - Data version control for your data lake | Git for data",
+            "homepage": "https://docs.lakefs.io",
             "id": 208038454,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T13:41:32Z",
+            "open_issues": 439,
             "owner": "treeverse",
             "repo": "lakeFS",
-            "stars": 5498
+            "stars": 5499,
+            "topics": [
+              "apache-spark",
+              "apache-sparksql",
+              "aws-s3",
+              "azure-blob-storage",
+              "azure-storage",
+              "data-engineering",
+              "data-lake",
+              "data-quality",
+              "data-version-control",
+              "data-versioning",
+              "datalake",
+              "datalakes",
+              "git-for-data",
+              "go",
+              "golang",
+              "google-cloud-storage",
+              "hadoop-filesystem",
+              "lakefs",
+              "object-storage"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1909,12 +3441,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
+            "homepage": "https://gravitino.apache.org",
             "id": 631431061,
             "language": "Java",
-            "last_commit": "2026-08-28T06:07:02Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:02:44Z",
+            "open_issues": 1056,
             "owner": "apache",
             "repo": "gravitino",
-            "stars": 3188
+            "stars": 3189,
+            "topics": [
+              "ai-catalog",
+              "data-catalog",
+              "datalake",
+              "federated-query",
+              "lakehouse",
+              "metadata",
+              "metalake",
+              "model-catalog",
+              "opendatacatalog",
+              "skycomputing",
+              "stratosphere"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1925,12 +3474,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nessie: Transactional Catalog for Data Lakes with Git-like semantics",
+            "homepage": "https://projectnessie.org",
             "id": 254450741,
             "language": "Java",
-            "last_commit": "2026-08-27T19:02:40Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:50:01Z",
+            "open_issues": 164,
             "owner": "projectnessie",
             "repo": "nessie",
-            "stars": 1497
+            "stars": 1497,
+            "topics": [
+              "aws-lambda",
+              "data",
+              "git",
+              "iceberg",
+              "java",
+              "spark"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         }
@@ -1947,12 +3508,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Making Postgres and Elasticsearch work together like it's 2023",
+            "homepage": "https://www.zombodb.com/",
             "id": 39265047,
             "language": "PLpgSQL",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-01T19:28:06Z",
+            "open_issues": 17,
             "owner": "zombodb",
             "repo": "zombodb",
-            "stars": 4719
+            "stars": 4719,
+            "topics": [
+              "elasticsearch",
+              "postgres",
+              "postgresql",
+              "sql",
+              "text-search"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1963,12 +3535,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "JDBC importer for Elasticsearch *** THIS REPOSITORY WILL BE DELETED WITHOUT ANY FURTHER NOTICE AFTER  AUG 1 2026 ***",
+            "homepage": null,
             "id": 4533231,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-03T08:44:22Z",
+            "open_issues": 1,
             "owner": "jprante",
             "repo": "elasticsearch-jdbc",
-            "stars": 2809
+            "stars": 2809,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -1979,12 +3556,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker image for Logstash 1.4",
+            "homepage": "https://hub.docker.com/r/pblittle/docker-logstash",
             "id": 16498665,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2015-12-21T15:15:49Z",
+            "open_issues": 0,
             "owner": "pblittle",
             "repo": "docker-logstash",
-            "stars": 237
+            "stars": 237,
+            "topics": [
+              "docker",
+              "elasticsearch",
+              "elk",
+              "kibana",
+              "logstash"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         }
@@ -2001,12 +3589,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Analyzes resource usage and performance characteristics of running containers.",
+            "homepage": null,
             "id": 20653934,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-20T21:23:51Z",
+            "open_issues": 62,
             "owner": "google",
             "repo": "cadvisor",
-            "stars": 19382
+            "stars": 19385,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -2017,12 +3610,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+            "homepage": "https://www.nomadproject.io/",
             "id": 36653430,
             "language": "Go",
-            "last_commit": "2026-08-27T17:21:34Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T19:59:12Z",
+            "open_issues": 1638,
             "owner": "hashicorp",
             "repo": "nomad",
-            "stars": 16837
+            "stars": 16841,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -2033,12 +3631,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple, resilient multi-host containers networking and more.",
+            "homepage": "https://www.weave.works",
             "id": 23059575,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-09T08:45:55Z",
+            "open_issues": 529,
             "owner": "weaveworks",
             "repo": "weave",
-            "stars": 6611
+            "stars": 6611,
+            "topics": [
+              "container-networking",
+              "docker",
+              "go",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -2049,12 +3657,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Container data volume manager for your Dockerized application",
+            "homepage": "https://clusterhq.com",
             "id": 19248542,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2017-05-18T07:14:11Z",
+            "open_issues": 80,
             "owner": "ClusterHQ",
             "repo": "flocker",
-            "stars": 3384
+            "stars": 3384,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -2065,12 +3678,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package golang service into minimal docker containers.",
+            "homepage": null,
             "id": 40157863,
             "language": "Shell",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-03-02T17:32:26Z",
+            "open_issues": 0,
             "owner": "redbooth",
             "repo": "gockerize",
-            "stars": 667
+            "stars": 667,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -2081,12 +3699,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Docker composition tool with idempotency features for deploying apps composed of multiple containers.",
+            "homepage": null,
             "id": 37997146,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-24T09:47:49Z",
+            "open_issues": 0,
             "owner": "grammarly",
             "repo": "rocker-compose",
-            "stars": 408
+            "stars": 408,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -2097,12 +3720,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight tool for easy deployment and rollback of dockerized applications.",
+            "homepage": null,
             "id": 35176089,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2020-01-24T17:45:07Z",
+            "open_issues": 2,
             "owner": "CenturyLinkLabs",
             "repo": "zodiac",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -2113,12 +3741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker microservice for saving/restoring volume data to S3",
+            "homepage": null,
             "id": 32651905,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-09-24T23:11:48Z",
+            "open_issues": 0,
             "owner": "figadore",
             "repo": "micro-s3-persistence",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         }
@@ -2137,12 +3770,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.",
+                "homepage": null,
                 "id": 23710026,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2026-01-27T21:05:08Z",
+                "open_issues": 5,
                 "owner": "Interana",
                 "repo": "eventsim",
-                "stars": 547
+                "stars": 547,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             }
@@ -2160,12 +3798,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The World's Most Comprehensive, Authoritative, and Structured Open Source Data Source Knowledge Base",
+                "homepage": "https://firstdata.deepminer.com.cn",
                 "id": 1143280063,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T09:27:51Z",
+                "open_issues": 1,
                 "owner": "MLT-OSS",
                 "repo": "FirstData",
-                "stars": 182
+                "stars": 182,
+                "topics": [
+                  "ai",
+                  "api-directory",
+                  "awesome-list",
+                  "data-catalog",
+                  "data-sources",
+                  "datasets",
+                  "fact-checking",
+                  "government-data",
+                  "knowledge-base",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "open-data",
+                  "public-data",
+                  "reference-data",
+                  "research-data",
+                  "statistics",
+                  "structured-data",
+                  "world-bank"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -2176,12 +3840,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free sample: 42-table synthetic business dataset with double-entry accounting. AdventureWorks alternative. CSV + SQL + Parquet + SQLite. AU tax compliance (ATO/GST).",
+                "homepage": null,
                 "id": 1199896323,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-10T03:24:44Z",
+                "open_issues": 0,
                 "owner": "MindweaveTech",
                 "repo": "sme-sim-sample",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "accounting",
+                  "adventureworks-alternative",
+                  "australia",
+                  "business-data",
+                  "csv",
+                  "database",
+                  "dataset",
+                  "double-entry-accounting",
+                  "dummy-data",
+                  "erp",
+                  "parquet",
+                  "payroll",
+                  "sample-database",
+                  "sql",
+                  "sqlite",
+                  "synthetic-data",
+                  "test-data"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             }
@@ -2205,12 +3892,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Prometheus monitoring system and time series database.",
+                "homepage": "https://prometheus.io/",
                 "id": 6838921,
                 "language": "Go",
-                "last_commit": "2026-08-28T01:05:38Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T16:51:00Z",
+                "open_issues": 879,
                 "owner": "prometheus",
                 "repo": "prometheus",
-                "stars": 65869
+                "stars": 65878,
+                "topics": [
+                  "alerting",
+                  "graphing",
+                  "hacktoberfest",
+                  "metrics",
+                  "monitoring",
+                  "prometheus",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -2221,12 +3921,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption",
+                "homepage": null,
                 "id": 7939398,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-08T16:26:18Z",
+                "open_issues": 0,
                 "owner": "prometheus",
                 "repo": "haproxy_exporter",
-                "stars": 628
+                "stars": 628,
+                "topics": [
+                  "go",
+                  "haproxy",
+                  "haproxy-exporter",
+                  "metrics",
+                  "prometheus",
+                  "prometheus-exporter"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -2237,12 +3949,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1184108618,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-14T09:44:04Z",
+                "open_issues": 1,
                 "owner": "sortlist",
                 "repo": "max-cli",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             }
@@ -2266,12 +3983,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "What's in your data? Extract schema, statistics and entities from datasets",
+                "homepage": "https://capitalone.github.io/DataProfiler",
                 "id": 311379516,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T15:47:52Z",
+                "open_issues": 77,
                 "owner": "capitalone",
                 "repo": "DataProfiler",
-                "stars": 1578
+                "stars": 1579,
+                "topics": [
+                  "avro",
+                  "csv",
+                  "data-analysis",
+                  "data-labels",
+                  "data-science",
+                  "dataprofiling",
+                  "dataset",
+                  "gdpr",
+                  "graph-data",
+                  "machine-learning",
+                  "network-data",
+                  "nlp",
+                  "npi",
+                  "pandas",
+                  "pii",
+                  "privacy",
+                  "python",
+                  "security",
+                  "sensitive-data",
+                  "tabular-data"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             },
@@ -2282,12 +4025,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Desbordante is a high-performance data profiler that is capable of discovering many different patterns in data using various algorithms. It also allows to run data cleaning scenarios using these algorithms. Desbordante has a console version and an easy-to-use web application.",
+                "homepage": null,
                 "id": 254398110,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-25T10:04:49Z",
+                "open_issues": 88,
                 "owner": "Desbordante",
                 "repo": "desbordante-core",
-                "stars": 498
+                "stars": 498,
+                "topics": [
+                  "anomaly-detection",
+                  "correlations",
+                  "data-analytics",
+                  "data-cleaning",
+                  "data-cleansing",
+                  "data-engineering",
+                  "data-exploration",
+                  "data-mining",
+                  "data-mining-algorithms",
+                  "data-preprocessing",
+                  "data-profiling",
+                  "data-science",
+                  "data-wrangling",
+                  "exploratory-data-analysis",
+                  "feature-engineering",
+                  "feature-extraction",
+                  "feature-selection",
+                  "knowledge-discovery",
+                  "spreadsheets",
+                  "tabular-data"
+                ]
               },
               "first_seen": "2026-08-28T06:07:13.018Z"
             }
@@ -2309,12 +4078,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://www.grai.io",
             "id": 501725302,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2026-01-30T20:28:25Z",
+            "open_issues": 51,
             "owner": "grai-io",
             "repo": "grai-core",
-            "stars": 317
+            "stars": 317,
+            "topics": [
+              "data",
+              "data-lineage",
+              "data-science",
+              "dataengineering",
+              "datalineage",
+              "dbt",
+              "django",
+              "fivetran",
+              "hacktoberfest",
+              "mssql",
+              "mysql",
+              "open-source",
+              "parquet",
+              "postgresql",
+              "python",
+              "redshift",
+              "snowflake"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -2325,12 +4117,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data Quality and Observability platform for the whole data lifecycle, from profiling new data sources to full automation with Data Observability. Configure data quality checks from the UI or in YAML files, let DQOps run the data quality checks daily to detect data quality issues.",
+            "homepage": "https://dqops.com/docs/",
             "id": 467565119,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-05T15:06:48Z",
+            "open_issues": 5,
             "owner": "dqops",
             "repo": "dqo",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "data-observability",
+              "data-ops",
+              "data-profiling",
+              "data-quality",
+              "data-quality-checks",
+              "data-quality-measurement",
+              "data-quality-monitoring",
+              "data-quality-report",
+              "monitoring"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -2341,12 +4148,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight DataFrame validation decorators for Pandas, Polars, Modin, and PyArrow. No custom types required.",
+            "homepage": "https://daffy.readthedocs.io/",
             "id": 334617862,
             "language": "Python",
-            "last_commit": "2026-08-27T23:04:31Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:59:07Z",
+            "open_issues": 6,
             "owner": "vertti",
             "repo": "daffy",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "data-quality",
+              "data-validation",
+              "dataframe",
+              "dataframe-schema",
+              "dataframe-validation",
+              "decorator",
+              "modin",
+              "narwhals",
+              "pandas",
+              "polars",
+              "pyarrow",
+              "pydantic",
+              "python",
+              "python-decorator",
+              "runtime-validation",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -2357,12 +4186,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight Snowflake emulator built with Go and DuckDB for local development and testing",
+            "homepage": null,
             "id": 1124465116,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-17T19:45:52Z",
+            "open_issues": 10,
             "owner": "nnnkkk7",
             "repo": "snowflake-emulator",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "ci-cd",
+              "cicd",
+              "data-engineering",
+              "database",
+              "docker",
+              "duckdb",
+              "emulator",
+              "go",
+              "golang",
+              "gosnowflake",
+              "local-development",
+              "snowflake",
+              "snowflake-emulator",
+              "sql",
+              "test",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -2373,12 +4224,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative data quality engine. Define checks in YAML, run anywhere.",
+            "homepage": "https://provero.org",
             "id": 1181086605,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T04:32:46Z",
+            "open_issues": 14,
             "owner": "provero-org",
             "repo": "provero",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "airflow",
+              "anomaly-detection",
+              "data-contracts",
+              "data-engineering",
+              "data-observability",
+              "data-quality",
+              "data-testing",
+              "data-validation",
+              "duckdb",
+              "open-source",
+              "python",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -2389,12 +4258,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A detective for your data. Zero-config data quality monitoring — works with dbt, Postgres, BigQuery, Snowflake. No YAML.",
+            "homepage": "https://github.com/rbmuller/scherlok",
             "id": 1198573394,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T14:12:50Z",
+            "open_issues": 11,
             "owner": "rbmuller",
             "repo": "scherlok",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "anomaly-detection",
+              "bigquery",
+              "claude",
+              "cli",
+              "data-engineering",
+              "data-observability",
+              "data-quality",
+              "dbt",
+              "duckdb",
+              "etl",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "monitoring",
+              "mysql",
+              "open-source",
+              "postgres",
+              "postgresql",
+              "python",
+              "snowflake"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         },
@@ -2405,12 +4300,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open, audit-grade agentic data quality framework with portable industry packs",
+            "homepage": null,
             "id": 1236046729,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-27T20:34:08Z",
+            "open_issues": 10,
             "owner": "aegis-dq",
             "repo": "aegis-dq",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "agentic-ai",
+              "airflow",
+              "data-engineering",
+              "data-quality",
+              "dbt",
+              "duckdb",
+              "langgraph",
+              "llm",
+              "mlops",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:07:13.018Z"
         }
@@ -2419,15 +4330,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:07:13.018Z",
+    "last_updated": "2026-08-29T03:43:18.730Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of data engineering tools for software developers",
+      "homepage": null,
       "id": 37680686,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-18T15:19:21Z",
+      "open_issues": 34,
       "owner": "igorbarinov",
       "repo": "awesome-data-engineering",
-      "stars": 8997
+      "stars": 9000,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "521593f964819d264ec5c9b25ff6dd4c76001187",
     "enhanced_repository": "enhansome/enhansome-data-engineering",
