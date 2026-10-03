@@ -36,7 +36,7 @@
 * Relational
   * [RQLite](https://github.com/rqlite/rqlite) ⭐ 17,780 | 🐛 74 | 🌐 Go | 📅 2026-10-02 - Replicated SQLite using the Raft consensus protocol.
   * [MySQL](https://www.mysql.com/) - The world's most popular open source database.
-    * [TiDB](https://github.com/pingcap/tidb) ⭐ 40,619 | 🐛 7,189 | 🌐 Go | 📅 2026-10-02 - A distributed NewSQL database compatible with MySQL protocol.
+    * [TiDB](https://github.com/pingcap/tidb) ⭐ 40,619 | 🐛 7,190 | 🌐 Go | 📅 2026-10-03 - A distributed NewSQL database compatible with MySQL protocol.
     * [mysql\_utils](https://github.com/pinterest/mysql_utils) ⚠️ Archived - Pinterest MySQL Management Tools.
     * [Percona XtraBackup](https://www.percona.com/software/mysql-database/percona-xtrabackup) - A free, open source, complete online backup solution for all versions of Percona Server, MySQL® and MariaDB®.
   * [MariaDB](https://mariadb.org/) - An enhanced, drop-in replacement for MySQL.
@@ -55,7 +55,7 @@
 * Column
   * [FiloDB](https://github.com/filodb/FiloDB) ⭐ 1,467 | 🐛 69 | 🌐 Scala | 📅 2026-10-01 - Distributed. Columnar. Versioned. Streaming. SQL.
   * [Cassandra](https://cassandra.apache.org/) - The right choice when you need scalability and high availability without compromising performance.
-    * [ScyllaDB](https://github.com/scylladb/scylla) ⭐ 15,782 | 🐛 3,745 | 🌐 C++ | 📅 2026-10-02 - NoSQL data store using the seastar framework, compatible with Apache Cassandra.
+    * [ScyllaDB](https://github.com/scylladb/scylla) ⭐ 15,782 | 🐛 3,743 | 🌐 C++ | 📅 2026-10-03 - NoSQL data store using the seastar framework, compatible with Apache Cassandra.
     * [CCM](https://github.com/pcmanus/ccm) ⭐ 1,235 | 🐛 72 | 🌐 Python | 📅 2026-04-21 - A script to easily create and destroy an Apache Cassandra cluster on localhost.
     * [Cassandra Calculator](https://www.ecyrd.com/cassandracalculator/) - This simple form allows you to try out different values for your Apache Cassandra cluster and see what the impact is for your application.
   * [HBase](https://hbase.apache.org/) - The Hadoop database, a distributed, scalable, big data store.
@@ -72,7 +72,7 @@
   * [RavenDB](https://ravendb.net/) - Fully Transactional NoSQL Document Database.
 * Graph
   * [FlockDB](https://github.com/twitter-archive/flockdb) ⚠️ Archived - A distributed, fault-tolerant graph database by Twitter. Deprecated.
-  * [Omnigraph](https://github.com/ModernRelay/omnigraph) ⭐ 1,245 | 🐛 87 | 🌐 Rust | 📅 2026-10-03 - Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime.
+  * [Omnigraph](https://github.com/ModernRelay/omnigraph) ⭐ 1,246 | 🐛 88 | 🌐 Rust | 📅 2026-10-03 - Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime.
   * [Actionbase](https://github.com/kakao/actionbase) ⭐ 227 | 🐛 1 | 🌐 Kotlin | 📅 2026-10-02 - A database for user interactions (likes, views, follows) represented as graphs, with precomputed reads served in real-time.
   * [ArcadeDB](https://arcadedb.com/) - Open-source multi-model database with native graph, document, key-value, and vector support. SQL, Cypher, and Gremlin query languages. Apache 2.0 license.
   * [Neo4j](https://neo4j.com/) - The world's leading graph database.
@@ -85,7 +85,7 @@
   * [Apache Geode](https://geode.apache.org/) - An open source, distributed, in-memory database for scale-out applications.
 * Timeseries
   * [InfluxDB](https://github.com/influxdata/influxdb) ⭐ 31,759 | 🐛 2,167 | 🌐 Rust | 📅 2026-10-03 - Scalable datastore for metrics, events, and real-time analytics.
-  * [Druid](https://github.com/apache/incubator-druid) ⭐ 14,058 | 🐛 772 | 🌐 Java | 📅 2026-10-02 - Column oriented distributed data store ideal for powering interactive applications.
+  * [Druid](https://github.com/apache/incubator-druid) ⭐ 14,058 | 🐛 772 | 🌐 Java | 📅 2026-10-03 - Column oriented distributed data store ideal for powering interactive applications.
   * [OpenTSDB](https://github.com/OpenTSDB/opentsdb) ⭐ 5,064 | 🐛 538 | 🌐 Java | 📅 2024-12-12 - A scalable, distributed Time Series Database.
   * [kairosdb](https://github.com/kairosdb/kairosdb) ⭐ 1,761 | 🐛 141 | 🌐 Java | 📅 2026-03-05 - Fast scalable time series database.
   * [Heroic](https://github.com/spotify/heroic) ⚠️ Archived - A scalable time series database based on Cassandra and Elasticsearch, by Spotify.
@@ -99,7 +99,7 @@
 * Other
   * [zvec](https://github.com/alibaba/zvec) ⭐ 16,058 | 🐛 65 | 🌐 C++ | 📅 2026-09-29 - An embedded vector database for on-device RAG and edge AI, the SQLite of vector databases.
   * [cayley](https://github.com/cayleygraph/cayley) ⭐ 15,067 | 🐛 93 | 🌐 Go | 📅 2026-08-27 - An open-source graph database. Google.
-  * [Manticore Search](https://github.com/manticoresoftware/manticoresearch) ⭐ 12,040 | 🐛 646 | 🌐 C++ | 📅 2026-10-02 - An open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
+  * [Manticore Search](https://github.com/manticoresoftware/manticoresearch) ⭐ 12,039 | 🐛 646 | 🌐 C++ | 📅 2026-10-02 - An open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
   * [Tarantool](https://github.com/tarantool/tarantool/) ⭐ 3,669 | 🐛 1,750 | 🌐 Lua | 📅 2026-10-02 - An in-memory database and application server.
   * [Snappydata](https://github.com/SnappyDataInc/snappydata) ⭐ 1,033 | 🐛 117 | 🌐 Scala | 📅 2022-11-21 - OLTP + OLAP Database built on Apache Spark.
   * [SlothDB](https://github.com/SouravRoy-ETL/slothdb) ⭐ 412 | 🐛 5 | 🌐 C++ | 📅 2026-06-03 - In-process analytical SQL database written in C++20. Reads Parquet, CSV, JSON, Avro, Arrow, SQLite, and Excel directly. Single binary, Python package, and 1.3 MB WASM build for the browser.
@@ -128,7 +128,7 @@
 * [Duckle](https://github.com/SouravRoy-ETL/duckle) ⭐ 1,346 | 🐛 71 | 🌐 Rust | 📅 2026-10-01 - Local-first, open-source desktop ETL/ELT studio: drag a pipeline onto a canvas (or describe it to a built-in on-device AI assistant) and run it at native speed through DuckDB. 290+ connectors, a scheduler, and an MCP server for driving pipelines from an LLM. No cloud, no servers.
 * [Scriptella ETL](https://github.com/scriptella/scriptella-etl) ⭐ 124 | 🐛 18 | 🌐 Java | 📅 2026-09-14 - Open-source, Java-based ETL and script execution tool for transferring and transforming data between databases, files, and other sources.
 * [pdfmux](https://github.com/NameetP/pdfmux) ⭐ 82 | 🐛 6 | 🌐 Python | 📅 2026-10-02 - Python PDF-to-Markdown orchestrator. Classifies each page and routes to the optimal backend (PyMuPDF, Docling, RapidOCR, Gemini Flash), emitting Markdown plus a per-page confidence score so ingestion pipelines can quarantine low-trust pages before feeding LLMs or retrieval.
-* [drt](https://github.com/drt-hub/drt) ⭐ 34 | 🐛 48 | 🌐 Python | 📅 2026-10-02 - OSS Reverse ETL CLI. Sync data from warehouses to business tools via YAML.
+* [drt](https://github.com/drt-hub/drt) ⭐ 34 | 🐛 49 | 🌐 Python | 📅 2026-10-03 - OSS Reverse ETL CLI. Sync data from warehouses to business tools via YAML.
 * [Google Sheets ETL](https://github.com/fulldecent/google-sheets-etl) ⭐ 21 | 🐛 1 | 🌐 PHP | 📅 2026-09-15 - Live import all your Google Sheets to your data warehouse.
 * [data-genie](https://github.com/pujansrt/data-genie) ⭐ 16 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-05 - High-performance, streaming-first ETL engine for Node.js and TypeScript with constant memory footprint.
 * [faucet-stream](https://github.com/PawanSikawat/faucet-stream) ⭐ 13 | 🐛 21 | 🌐 Rust | 📅 2026-10-02 - Config-driven data-movement platform for Rust with pluggable source and sink connectors, running ETL, CDC, and streaming pipelines declaratively from YAML or embedded as a library.
@@ -143,11 +143,11 @@
   * [kafka-manager](https://github.com/yahoo/kafka-manager) ⭐ 11,921 | 🐛 522 | 🌐 Scala | 📅 2023-08-02 - A tool for managing Apache Kafka.
   * [kafka-docker](https://github.com/wurstmeister/kafka-docker) ⭐ 6,957 | 🐛 126 | 🌐 Shell | 📅 2024-05-08 - Kafka in Docker.
   * [kafkacat](https://github.com/edenhill/kafkacat) ⭐ 5,784 | 🐛 161 | 🌐 C | 📅 2024-07-09 - Generic command line non-JVM Apache Kafka producer and consumer.
-  * [kafka-node](https://github.com/SOHU-Co/kafka-node) ⭐ 2,650 | 🐛 444 | 🌐 JavaScript | 📅 2023-08-30 - Node.js client for Apache Kafka 0.8.
+  * [kafka-node](https://github.com/SOHU-Co/kafka-node) ⭐ 2,649 | 🐛 444 | 🌐 JavaScript | 📅 2023-08-30 - Node.js client for Apache Kafka 0.8.
   * [Secor](https://github.com/pinterest/secor) ⭐ 1,858 | 🐛 283 | 🌐 Java | 📅 2026-09-24 - Pinterest's Kafka to S3 distributed consumer.
-  * [librdkafka](https://github.com/edenhill/librdkafka) ⭐ 1,060 | 🐛 603 | 🌐 C | 📅 2026-10-02 - The Apache Kafka C/C++ library.
+  * [librdkafka](https://github.com/edenhill/librdkafka) ⭐ 1,060 | 🐛 603 | 🌐 C | 📅 2026-10-03 - The Apache Kafka C/C++ library.
   * [kafkat](https://github.com/airbnb/kafkat) ⭐ 502 | 🐛 14 | 🌐 Ruby | 📅 2019-06-01 - Simplified command-line administration for Kafka brokers.
-  * [Kroxylicious](https://github.com/kroxylicious/kroxylicious) ⭐ 325 | 🐛 347 | 🌐 Java | 📅 2026-10-02 - A Kafka Proxy, solving problems like encrypting your Kafka data at rest.
+  * [Kroxylicious](https://github.com/kroxylicious/kroxylicious) ⭐ 325 | 🐛 360 | 🌐 Java | 📅 2026-10-03 - A Kafka Proxy, solving problems like encrypting your Kafka data at rest.
   * [pg-kafka](https://github.com/xstevens/pg_kafka) ⚠️ Archived - A PostgreSQL extension to produce messages to Apache Kafka.
   * [Kafka-logger](https://github.com/uber/kafka-logger) ⚠️ Archived - Kafka-winston logger for Node.js from Uber.
   * [BottledWater](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka. Deprecated.
@@ -193,7 +193,7 @@
 
 ## Serialization format
 
-* [ProtoBuf](https://github.com/protocolbuffers/protobuf) ⭐ 72,089 | 🐛 472 | 🌐 C++ | 📅 2026-10-03 - Protocol Buffers - Google's data interchange format.
+* [ProtoBuf](https://github.com/protocolbuffers/protobuf) ⭐ 72,090 | 🐛 472 | 🌐 C++ | 📅 2026-10-03 - Protocol Buffers - Google's data interchange format.
 * [Kryo](https://github.com/EsotericSoftware/kryo) ⭐ 6,546 | 🐛 13 | 🌐 HTML | 📅 2026-10-02 - A fast and efficient object graph serialization framework for Java.
 * [AKF](https://github.com/HMAKT99/AKF) ⭐ 18 | 🐛 7 | 🌐 Python | 📅 2026-08-02 - The AI native file format. Trust scores, source provenance, and compliance metadata that embed into 20+ formats (DOCX, PDF, images, code). EXIF for AI.
 * [PFC-JSONL](https://github.com/ImpossibleForge/pfc-jsonl) ⭐ 7 | 🐛 0 | 📅 2026-06-19 - Specialized JSONL log compressor with block-level timestamp indexing and DuckDB integration. Achieves \~9% compression ratio (better than gzip) with time-range random access queries.
@@ -208,8 +208,8 @@
 
 ## Stream Processing
 
-* [Pathway](https://github.com/pathwaycom/pathway) ⭐ 62,195 | 🐛 38 | 🌐 Python | 📅 2026-10-02 - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
-* [CocoIndex](https://github.com/cocoindex-io/cocoindex) ⭐ 11,640 | 🐛 105 | 🌐 Rust | 📅 2026-10-02 - An open source ETL framework to build fresh index for AI.
+* [Pathway](https://github.com/pathwaycom/pathway) ⭐ 62,194 | 🐛 38 | 🌐 Python | 📅 2026-10-02 - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
+* [CocoIndex](https://github.com/cocoindex-io/cocoindex) ⭐ 11,641 | 🐛 106 | 🌐 Rust | 📅 2026-10-03 - An open source ETL framework to build fresh index for AI.
 * [PipelineDB](https://github.com/pipelinedb/pipelinedb) ⭐ 2,664 | 🐛 133 | 🌐 C | 📅 2022-02-20 - The Streaming SQL Database.
 * [Robinhood's Faust](https://github.com/faust-streaming/faust) ⭐ 1,889 | 🐛 147 | 🌐 Python | 📅 2026-09-28 - Forever scalable event processing & in-memory durable K/V store as a library with asyncio & static typing.
 * [Kuiper](https://github.com/emqx/kuiper) ⭐ 1,740 | 🐛 54 | 🌐 Go | 📅 2026-10-02 - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
@@ -261,11 +261,11 @@
 
 ## Charts and Dashboards
 
-* [Apache Superset](https://github.com/apache/incubator-superset) ⭐ 75,014 | 🐛 540 | 🌐 Python | 📅 2026-10-03 - A modern, enterprise-ready business intelligence web application.
-* [Metabase](https://github.com/metabase/metabase) ⭐ 49,514 | 🐛 4,558 | 🌐 Clojure | 📅 2026-10-03 - The easy, open source way for everyone in your company to ask questions and learn from data.
-* [Plotly](https://github.com/plotly/dash) ⭐ 24,440 | 🐛 430 | 🌐 Python | 📅 2026-10-02 - Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python.
+* [Apache Superset](https://github.com/apache/incubator-superset) ⭐ 75,015 | 🐛 536 | 🌐 Python | 📅 2026-10-03 - A modern, enterprise-ready business intelligence web application.
+* [Metabase](https://github.com/metabase/metabase) ⭐ 49,517 | 🐛 4,561 | 🌐 Clojure | 📅 2026-10-03 - The easy, open source way for everyone in your company to ask questions and learn from data.
+* [Plotly](https://github.com/plotly/dash) ⭐ 24,439 | 🐛 431 | 🌐 Python | 📅 2026-10-02 - Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python.
 * [PyXley](https://github.com/stitchfix/pyxley) ⚠️ Archived - Python helpers for building dashboards using Flask and React.
-* [Dekart](https://github.com/dekart-xyz/dekart) ⭐ 423 | 🐛 34 | 🌐 JavaScript | 📅 2026-10-02 - Open-source SQL to map platform for BigQuery, Snowflake, and PostGIS.
+* [Dekart](https://github.com/dekart-xyz/dekart) ⭐ 425 | 🐛 34 | 🌐 JavaScript | 📅 2026-10-02 - Open-source SQL to map platform for BigQuery, Snowflake, and PostGIS.
 * [FlexViz](https://github.com/flex-analytics/flexviz) ⭐ 56 | 🐛 46 | 🌐 Python | 📅 2026-10-01 - Open-source Python library for interactive cross-filter dashboards on large datasets. Zoom, pan, and selection are answered by lazy Polars aggregations on a stateless server instead of sending rows to the browser.
 * [QueryGPT](https://github.com/MKY508/QueryGPT) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-07-30 - Natural language database query interface with automatic chart generation, supporting Chinese and English queries.
 * [Highcharts](https://www.highcharts.com/) - A charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application.
@@ -283,8 +283,8 @@
 
 ## Workflow
 
-* [Airflow](https://github.com/apache/airflow) ⭐ 47,034 | 🐛 1,832 | 🌐 Python | 📅 2026-10-02 - A system to programmatically author, schedule, and monitor data pipelines.
-* [Kestra](https://github.com/kestra-io/kestra) ⭐ 28,833 | 🐛 798 | 🌐 Java | 📅 2026-10-02 - Scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
+* [Airflow](https://github.com/apache/airflow) ⭐ 47,036 | 🐛 1,829 | 🌐 Python | 📅 2026-10-03 - A system to programmatically author, schedule, and monitor data pipelines.
+* [Kestra](https://github.com/kestra-io/kestra) ⭐ 28,840 | 🐛 799 | 🌐 Java | 📅 2026-10-02 - Scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
 * [Luigi](https://github.com/spotify/luigi) ⭐ 18,778 | 🐛 178 | 🌐 Python | 📅 2026-07-18 - A Python module that helps you build complex pipelines of batch jobs.
 * [Dagster](https://github.com/dagster-io/dagster) ⭐ 16,232 | 🐛 2,577 | 🌐 Python | 📅 2026-10-02 - An open-source Python library for building data applications.
 * [DataFlow](https://github.com/OpenDCAI/DataFlow) ⭐ 8,190 | 🐛 10 | 🌐 Python | 📅 2026-09-28 - Open-source platform for data preparation, synthetic data generation, and AI/data pipelines. Includes reusable skills for automating workflow steps across data and AI tasks.
@@ -315,8 +315,8 @@
 ## Data Lake Management
 
 * [lakeFS](https://github.com/treeverse/lakeFS) ⭐ 5,551 | 🐛 444 | 🌐 Go | 📅 2026-10-01 - An open source platform that delivers resilience and manageability to object-storage based data lakes.
-* [Gravitino](https://github.com/apache/gravitino) ⭐ 3,236 | 🐛 1,176 | 🌐 Java | 📅 2026-10-02 - An open-source, unified metadata management for data lakes, data warehouses, and external catalogs.
-* [Project Nessie](https://github.com/projectnessie/nessie) ⭐ 1,517 | 🐛 165 | 🌐 Java | 📅 2026-10-02 - A Transactional Catalog for Data Lakes with Git-like semantics. Works with Apache Iceberg tables.
+* [Gravitino](https://github.com/apache/gravitino) ⭐ 3,236 | 🐛 1,174 | 🌐 Java | 📅 2026-10-03 - An open-source, unified metadata management for data lakes, data warehouses, and external catalogs.
+* [Project Nessie](https://github.com/projectnessie/nessie) ⭐ 1,517 | 🐛 166 | 🌐 Java | 📅 2026-10-03 - A Transactional Catalog for Data Lakes with Git-like semantics. Works with Apache Iceberg tables.
 * [Ilum](https://ilum.cloud/) - A modular Data Lakehouse platform that simplifies the management and monitoring of Apache Spark clusters across Kubernetes and Hadoop environments.
 * [FlightPath Data](https://www.flightpathdata.com) - FlightPath is a gateway to a data lake's bronze layer, protecting it from invalid external data file feeds as a trusted publisher.
 * [rawquery](https://rawquery.dev) - Managed lakehouse platform on Apache Iceberg with DuckDB query compute, S3 storage, Postgres wire protocol, and SQL transforms.
@@ -355,7 +355,7 @@
 
 ### Data Dumps
 
-* [FirstData](https://github.com/MLT-OSS/FirstData) ⭐ 183 | 🐛 2 | 🌐 Python | 📅 2026-08-17 - The world's most comprehensive authoritative data source knowledge base. 160+ curated sources from governments, international organizations, and research institutions with MCP integration.
+* [FirstData](https://github.com/MLT-OSS/FirstData) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - The world's most comprehensive authoritative data source knowledge base. 160+ curated sources from governments, international organizations, and research institutions with MCP integration.
 * [Mindweave Synthetic Business Data](https://github.com/MindweaveTech/sme-sim-sample) ⭐ 2 | 🐛 0 | 📅 2026-04-10 - 42-table synthetic SME dataset with double-entry accounting, tax compliance (AU/US/UK), and temporal realism. CSV, SQL, Parquet, SQLite. Ideal for ETL pipeline testing.
 * [GitHub Archive](https://www.gharchive.org/) - GitHub's public timeline since 2011, updated every hour.
 * [Common Crawl](https://commoncrawl.org/) - Open source repository of web crawl data.
@@ -367,7 +367,7 @@
 
 ### Prometheus
 
-* [Prometheus.io](https://github.com/prometheus/prometheus) ⭐ 66,342 | 🐛 937 | 🌐 Go | 📅 2026-10-02 - An open-source service monitoring system and time series database.
+* [Prometheus.io](https://github.com/prometheus/prometheus) ⭐ 66,344 | 🐛 937 | 🌐 Go | 📅 2026-10-02 - An open-source service monitoring system and time series database.
 * [HAProxy Exporter](https://github.com/prometheus/haproxy_exporter) ⚠️ Archived - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.
 * [Signals CLI](https://github.com/sortlist/signals-cli) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-14 - Intent signal monitoring CLI. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for data pipelines.
 
@@ -388,7 +388,7 @@
 * [Grai](https://github.com/grai-io/grai-core/) ⭐ 317 | 🐛 51 | 🌐 Python | 📅 2026-01-30 - A data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production.
 * [DQOps](https://github.com/dqops/dqo) ⭐ 194 | 🐛 9 | 🌐 Java | 📅 2026-01-05 - An open-source data quality platform for the whole data platform lifecycle from profiling new data sources to applying full automation of data quality monitoring.
 * [dbmask](https://github.com/sealandseacat/dbmask) ⭐ 149 | 🐛 1 | 🌐 Python | 📅 2026-09-29 - Open-source tool that scans SQL databases for sensitive columns, masks them with deterministic fakes, and validates the masked copy row by row against the original.
-* [daffy](https://github.com/vertti/daffy/) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2026-10-02 - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Pandas/Polars/PyArrow/Modin.
+* [daffy](https://github.com/vertti/daffy/) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2026-10-03 - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Pandas/Polars/PyArrow/Modin.
 * [Snowflake Emulator](https://github.com/nnnkkk7/snowflake-emulator) ⭐ 52 | 🐛 10 | 🌐 Go | 📅 2026-08-17 - A Snowflake-compatible emulator for local development and testing.
 * [Provero](https://github.com/provero-org/provero) ⭐ 17 | 🐛 11 | 🌐 Python | 📅 2026-09-28 - A vendor-neutral, declarative data quality engine. Define checks in YAML, run anywhere. Includes 16 built-in check types, SQL batch optimizer, anomaly detection, and data contracts.
 * [Scherlok](https://github.com/rbmuller/scherlok) ⭐ 11 | 🐛 13 | 🌐 Python | 📅 2026-09-28 - Zero-config data quality CLI. Profiles every table on first run, then auto-detects anomalies (volume drops, schema drift, freshness misses, distribution shifts) on subsequent runs. No YAML, no rules to write. Works with Postgres, BigQuery, Snowflake, and dbt.
